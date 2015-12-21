@@ -18,7 +18,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    // Do any additional setup after loading the view, typically from a nib. hhahha
     Model *model = [[Model alloc] init];
     model.name = @"name";
     model.f = 4.2;
